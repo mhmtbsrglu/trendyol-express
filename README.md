@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+### Tech Stacks
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event Emitter-black?style=for-the-badge" />
+ </p>
+
+### Architecture
+
+
+- Layouts
+- Pages
+- Services
+- Utilities
+
+### Screenshoots
+
+Landing Page | Landing Mobile Page | Period Page | Period Mobile Page 
+--- | --- | --- | --- |
+<img src="https://user-images.githubusercontent.com/99546413/156867375-05cea981-5edb-418f-81ec-10ab3fd6a478.png"/> | <img src="https://user-images.githubusercontent.com/99546413/156867419-bdefdc63-2a67-402e-961d-65e5ad4edf0b.png"/> | <img src="https://user-images.githubusercontent.com/99546413/156867459-ad3ef109-0f71-46fb-8ee5-49926d0b34bb.png"/> | <img src="https://user-images.githubusercontent.com/99546413/156867552-d378faa1-b56c-49c3-9a94-c1b623ba1a53.png"/> 
+
+### Functions
+
+- subAllText
+  - This Function can hide important information. Like : mh** bs** 
+
+<details>
+  <summary>Setup</summary>
+  
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +101,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+  </details>
